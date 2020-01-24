@@ -1,0 +1,11 @@
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\bin\Debug\netcoreapp2.1\guessing.deps.json
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\bin\Debug\netcoreapp2.1\guessing.runtimeconfig.json
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\bin\Debug\netcoreapp2.1\guessing.runtimeconfig.dev.json
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\bin\Debug\netcoreapp2.1\guessing.dll
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\bin\Debug\netcoreapp2.1\guessing.pdb
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\obj\Debug\netcoreapp2.1\guessing.csprojAssemblyReference.cache
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\obj\Debug\netcoreapp2.1\guessing.csproj.CoreCompileInputs.cache
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\obj\Debug\netcoreapp2.1\guessing.AssemblyInfoInputs.cache
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\obj\Debug\netcoreapp2.1\guessing.AssemblyInfo.cs
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\obj\Debug\netcoreapp2.1\guessing.dll
+C:\Users\edmek\Desktop\C#\lambda\guessing\guessing\obj\Debug\netcoreapp2.1\guessing.pdb
